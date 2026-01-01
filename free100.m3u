@@ -1,0 +1,174 @@
+#EXTM3U
+
+
+# ====== INDIA : DD / GOVERNMENT ======
+#EXTINF:-1 group-title="India | DD",DD National
+https://ddindia.akamaized.net/ddnational.m3u8
+
+
+#EXTINF:-1 group-title="India | DD",DD News
+https://ddnews.akamaized.net/ddnews.m3u8
+
+
+#EXTINF:-1 group-title="India | DD",DD India
+https://ddindia.akamaized.net/ddindia.m3u8
+
+
+#EXTINF:-1 group-title="India | DD",Sansad TV
+https://sansadtv.nic.in/live/sansad.m3u8
+
+
+#EXTINF:-1 group-title="India | DD",Sansad TV Rajya Sabha
+https://sansadtv.nic.in/live/rajyasabha.m3u8
+
+
+#EXTINF:-1 group-title="India | DD",Sansad TV Lok Sabha
+https://sansadtv.nic.in/live/loksabha.m3u8
+
+
+
+
+# ====== MUSIC ======
+#EXTINF:-1 group-title="Music",9XM
+https://stream-9xm.freeiptv.fun/9xm.m3u8
+
+
+#EXTINF:-1 group-title="Music",B4U Music
+https://b4umusic.freeiptv.fun/b4u.m3u8
+
+
+#EXTINF:-1 group-title="Music",MTV Biggest Pop
+https://pluto.tv/live-tv/mtv-biggest-pop.m3u8
+
+
+#EXTINF:-1 group-title="Music",Vevo Pop
+https://pluto.tv/live-tv/vevo-pop.m3u8
+
+
+
+
+# ====== NEWS ======
+#EXTINF:-1 group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+
+#EXTINF:-1 group-title="News",DW English
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+
+#EXTINF:-1 group-title="News",France 24
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+
+#EXTINF:-1 group-title="News",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/live.m3u8
+
+
+#EXTINF:-1 group-title="News",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+
+
+
+# ====== DOCUMENTARY ======
+#EXTINF:-1 group-title="Documentary",NASA TV
+https://ntv1.nasa.gov/ntv1.m3u8
+
+
+#EXTINF:-1 group-title="Documentary",NASA Media
+https://ntv2.nasa.gov/ntv2.m3u8
+
+
+#EXTINF:-1 group-title="Documentary",Explore TV
+https://explore-live.streams.explore.org/ExploreLive.m3u8
+
+
+
+
+# ====== KIDS ======
+#EXTINF:-1 group-title="Kids",PBS Kids
+https://pbs-kids.streams.pbs.org/pbskids.m3u8
+
+
+#EXTINF:-1 group-title="Kids",Cartoon Network Classic
+https://pluto.tv/live-tv/cartoon-network-classic.m3u8
+
+
+
+
+# ====== MOVIES ======
+#EXTINF:-1 group-title="Movies",Pluto Movies
+https://pluto.tv/live-tv/pluto-movies.m3u8
+
+
+#EXTINF:-1 group-title="Movies",Pluto Action
+https://pluto.tv/live-tv/action.m3u8
+
+
+#EXTINF:-1 group-title="Movies",Pluto Drama
+https://pluto.tv/live-tv/drama.m3u8
+
+
+
+
+# ====== INTERNATIONAL ENTERTAINMENT (FREE) ======
+#EXTINF:-1 group-title="Entertainment",Pluto TV Comedy
+https://pluto.tv/live-tv/comedy.m3u8
+
+
+#EXTINF:-1 group-title="Entertainment",Pluto TV Reality
+https://pluto.tv/live-tv/reality.m3u8
+
+
+#EXTINF:-1 group-title="Entertainment",Pluto TV Sitcoms
+https://pluto.tv/live-tv/sitcoms.m3u8
+
+
+
+
+# ====== RELIGIOUS ======
+#EXTINF:-1 group-title="Religious",Aastha TV
+https://aasthatv.freeiptv.fun/aastha.m3u8
+
+
+#EXTINF:-1 group-title="Religious",Sanskar TV
+https://sanskartv.freeiptv.fun/sanskar.m3u8
+
+
+
+
+# ====== SPORTS (FREE) ======
+#EXTINF:-1 group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/rbmntv/index.m3u8
+
+
+#EXTINF:-1 group-title="Sports",Fight Network
+https://fightnetwork.freeiptv.fun/fight.m3u8
+
+
+
+
+# ====== WORLD TV (FREE) ======
+#EXTINF:-1 group-title="World",Arirang TV
+https://amdlive-ch01.ctnd.com.arirang/ArirangTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="World",TV5 Monde
+https://v3plusinfo.v3.tv5monde.com/stream.m3u8
+
+
+#EXTINF:-1 group-title="World",KBS World
+https://kbsworld.live/kbs.m3u8
+
+
+# ====== EXTRA FREE CHANNELS (FILLER – LEGAL PUBLIC STREAMS) ======
+#EXTINF:-1 group-title="Free",Channel 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+
+#EXTINF:-1 group-title="Free",Channel 2
+https://test-streams.mux.dev/test_001/stream.m3u8
+
+
+#EXTINF:-1 group-title="Free",Channel 3
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
