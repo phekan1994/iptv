@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="" group-title="News",4TV News (576p)
 https://rajdularihits.in/hls/test.m3u8
-#EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-logo="https://share.google/PwlBKTCkZ4PRcUJsi" group-title="News",6 TV Telugu (720p)
+#EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-logo="https://share.google/PwlBKTCkZ4PRcUJsi" group-title="News",9x city (Hindi)
 https://rajdularihits.in/hls/music.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music" referrer="https://oxolive.com/",7S Music (576p)
 #EXTVLCOPT:http-referrer=https://oxolive.com/
